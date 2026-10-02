@@ -22,7 +22,7 @@ From here you may display the information of all ten wagons
 then you may choose to display the wagon that has the most space available.
 
 ## What I Learned
-- Implememnt doubly linked lists
+- Implement doubly linked lists
 - Implement pushFront, pushBack, popFront, popBack, at() functions.
 
 ## Author
