@@ -1,0 +1,26 @@
+# LinkedList Implementation
+
+## Description
+A brief description of what the project does and what I learned from creating it.
+
+## Technologies Used
+- Java
+- IntelliJ IDEA
+
+## How to Run
+1. Clone the repository.
+2. Open the project in IntelliJ IDEA.
+3. Build the project.
+4. Run the main class.
+
+## Usage
+Begin by buying tickets to a wagon of your choice (Wagon 1-10)
+From here you may display the information of all ten wagons
+then you may choose to display the wagon that has the most space available.
+
+## What I Learned
+- Implememnt doubly linked lists
+- Implement pushFront, pushBack, popFront, popBack, at() functions.
+
+## Author
+Chris Vanderlois
