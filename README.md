@@ -1,7 +1,10 @@
 # LinkedList Implementation
 
 ## Description
-A brief description of what the project does and what I learned from creating it.
+A program that allows the user to buy tickets for a train. Prints the information
+of each wagon on the train displaying the capacity and the current
+number of tickets bought for each wagon. Displays the wagon with
+the least number of tickets bought.
 
 ## Technologies Used
 - Java
